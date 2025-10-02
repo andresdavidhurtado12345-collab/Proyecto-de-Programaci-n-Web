@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Controllers",
     "\\Models",
     "\\Views",
     "\\Views\\Clientes"
   ],
-  "SelectedNode": "\\Views\\Clientes\\Delete.cshtml",
+  "SelectedNode": "\\appsettings.Development.json",
   "PreviewInSolutionExplorer": false
 }
